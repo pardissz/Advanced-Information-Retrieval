@@ -1,0 +1,1 @@
+the fastText model.bin is 700 MG so I didnt upload it and my_embeddings.npy but they can both be obtained from running the file.
